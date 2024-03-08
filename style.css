@@ -7,3 +7,7 @@ h1 {
   background: green;
   text-align: center;
 }
+
+p {
+  border-style: dotted;
+}
